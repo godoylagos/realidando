@@ -1,0 +1,5 @@
+<model-viewer src="Untitled 2.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1.07" environment-image="universe.jpg" skybox-image="universe.jpg" shadow-softness="0.71" exposure="1.84" auto-rotate>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+</model-viewer>
